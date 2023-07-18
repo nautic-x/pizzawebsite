@@ -1,0 +1,39 @@
+body{
+    background-color: bisque;
+}
+
+.main-navbar{
+    border: 1px solid black;
+    width: auto;
+    height: 6%;
+    background-color: red;
+    color: white;
+}
+
+.menu{
+    display: flex;
+    justify-content: right;
+    margin-left: 2px;
+    margin-bottom: 2px;
+}
+
+a{
+    color: white;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.pix-box h5{
+    padding-top: 10px;
+}
+
+
+.footer-space{
+    background-color: red;
+    height: 10vh;
+}
+
+footer p{
+    text-align: center;
+    font-weight: bolder;
+}
